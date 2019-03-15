@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "BaseView.h"
 
 FOUNDATION_EXPORT double YYUtilTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char YYUtilTestVersionString[];

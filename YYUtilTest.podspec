@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 The util template.
                        DESC
 
-  s.homepage         = 'https://github.com/rosylxf/YYUtilTestt'
+  s.homepage         = 'https://github.com/rosylxf/YYUtilTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rosylxf@gmail.com' => 'rosylxf@gmail.com' }
@@ -30,7 +30,7 @@ The util template.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YYUtilTest/Classes/*/'
+  s.source_files = 'YYUtilTest/Classes/*'
   
   # s.resource_bundles = {
   #   'YYUtilTest' => ['YYUtilTest/Assets/*.png']
