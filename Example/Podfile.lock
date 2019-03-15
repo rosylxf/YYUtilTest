@@ -1,5 +1,5 @@
 PODS:
-  - YYUtilTest (0.1.0)
+  - YYUtilTest (0.2.0)
 
 DEPENDENCIES:
   - YYUtilTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YYUtilTest: 73f3396350b10c3c7c358f148dd0563e9884bd66
+  YYUtilTest: 40a081105e609d3b37e72b4da647015c041061d3
 
 PODFILE CHECKSUM: ec84165d22d227c65256a1fc70c12bcc1c99e2b4
 

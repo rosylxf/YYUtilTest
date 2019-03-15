@@ -10,7 +10,8 @@
 #endif
 #endif
 
-#import "BaseView.h"
+#import "UIImage+Circle.h"
+#import "UIImage+Color.h"
 
 FOUNDATION_EXPORT double YYUtilTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char YYUtilTestVersionString[];
