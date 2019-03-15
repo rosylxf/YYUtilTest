@@ -1,0 +1,16 @@
+PODS:
+  - YYUtilTest (0.1.0)
+
+DEPENDENCIES:
+  - YYUtilTest (from `../`)
+
+EXTERNAL SOURCES:
+  YYUtilTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYUtilTest: 338e23992c1736f2637d922e3e3bd6f8510ca26c
+
+PODFILE CHECKSUM: ec84165d22d227c65256a1fc70c12bcc1c99e2b4
+
+COCOAPODS: 1.5.3

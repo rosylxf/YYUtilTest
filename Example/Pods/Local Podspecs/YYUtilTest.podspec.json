@@ -1,0 +1,22 @@
+{
+  "name": "YYUtilTest",
+  "version": "0.1.0",
+  "summary": "A short description of YYUtilTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rosylxf@gmail.com/YYUtilTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rosylxf@gmail.com": "rosylxf@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rosylxf@gmail.com/YYUtilTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYUtilTest/Classes/**/*"
+}
